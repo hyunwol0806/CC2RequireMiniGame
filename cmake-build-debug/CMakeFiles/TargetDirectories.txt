@@ -1,3 +1,0 @@
-C:/Users/175527.JNU/Desktop/port/CC2RequireMiniGame/cmake-build-debug/CMakeFiles/CC2RequireMiniGame.dir
-C:/Users/175527.JNU/Desktop/port/CC2RequireMiniGame/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/175527.JNU/Desktop/port/CC2RequireMiniGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
